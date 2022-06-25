@@ -1,0 +1,23 @@
+.monarchy{
+display:flex;
+justify-content:flex-start;    
+}
+
+.styleme{
+background-color: red;
+color: white;
+height:40px;
+width:400px;    
+}
+
+.stylep1{
+background:cyan;
+width:auto;
+}
+
+.stylep2{
+background:pink;
+border:solid #FA8128 6px;
+padding:15px;
+width:auto;
+}
